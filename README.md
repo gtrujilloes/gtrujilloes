@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gtrujilloes
-- 👀 I’m interested in Data Science with social impact. That's why I lead AI Saturdays Copenhagen
+- 👀 I’m interested in Data Analysis & Data Science with social impact. That's why I lead AI Saturdays Copenhagen and work at Too Good To Go
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: https://www.linkedin.com/in/guillermo-trujillo-escudero-869243140/
 
