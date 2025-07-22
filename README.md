@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guillermo
 
-🎯 **Staff Data Analyst** with 5+ years of experience in high-growth startups, working end-to-end across the modern data stack — from raw ingestion to strategic insight.
+🎯 **Staff Data Analyst** with 5+ years of experience in high-growth startups, working end-to-end across the modern data stack — from raw ingestion to strategic insights delivery. Over the past five years, I’ve worked in high-growth SaaS environments where the culture prioritized outcomes over hours. I’ve supported leadership teams with product and commercial insights to shape go-to-market strategies, while also working closely with C-level on forecasting, financial planning, and investor reporting. Besides, over the past months I have focused on the engineering side of things, being able to set up entire data pipelines and developing a proficient understanding of tools like Google Cloud.
 
 ---
 
