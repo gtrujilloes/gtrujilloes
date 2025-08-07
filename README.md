@@ -10,9 +10,10 @@ If you're building something data-driven — or thinking about how data can *rea
 ### 📌 What You'll Find Here
 
 This profile showcases different repositories containing several types of projects:
-- pyne_poc: contains the process of building a cloud-native pipeline from scratch (API → BigQuery → dbt → Looker), automating the data ingestion and transforming the data while keeping best practices in version control, CI/CD, and testing for analytics.
-- prophet: contains a daily forecast of any given company spend at a country level using historical transactional data. The focus is on selected European markets and leverages Facebook Prophet for time series forecasting.
-- exodus: contains the code for the different steps of an unsupervised ML exercise (dataframe creating --> PCA --> Clustering (K Means).
+- gcp_pipeline: it contains the process of building a cloud-native pipeline from scratch (API → BigQuery → dbt → Looker), automating the data ingestion and transforming the data while keeping best practices in version control, CI/CD, and testing for analytics.
+- prophet: it contains a daily forecast of any given company spend at a country level using historical transactional data. The focus is on selected European markets and leverages Facebook Prophet for time series forecasting.
+- exodus: it contains the code for the different steps of an unsupervised ML exercise (dataframe creating --> PCA --> Clustering (K Means).
+- analyses: it contains the files with different exploratory or hypotheses testing analyses.
 
 
 
